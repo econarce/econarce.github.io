@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://econarce.github.io/sitemap.html.gz
+Sitemap: https://econarce.github.io/app/sitemap.html.gz
+Sitemap: https://econarce.github.io/assets/sitemap.html.gz
+Sitemap: https://econarce.github.io/css/sitemap.html.gz
+Sitemap: https://econarce.github.io/includes/sitemap.html.gz
+Sitemap: https://econarce.github.io/item/sitemap.html.gz
+Sitemap: https://econarce.github.io/src/sitemap.html.gz
